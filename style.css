@@ -55,18 +55,17 @@ h1{
 section{
     display: flexbox; 
     align-items:center;
-    justify-content: center;
+    justify-content:center;
     padding: 4px;
     margin: 2px;
 }
     
-img {
+section img {
     object-fit: cover;
     border: solid black;
     border-radius: 50px;
     position: relative;
     margin: 1%;
-    
 }
 
 article{
